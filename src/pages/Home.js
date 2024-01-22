@@ -60,7 +60,7 @@ const Home = () => {
                 </div>
             </div>
             <footer>
-                <h2>Developed by &nbsp;<a href='https://ikanshgoyal.github.io/personal-portfolio/'>Ikansh Goyal</a></h2>
+                <h2>Developed by &nbsp;<a href='https://github.com/IkanshGoyal'>Ikansh Goyal</a></h2>
             </footer>
         </div>
     )
