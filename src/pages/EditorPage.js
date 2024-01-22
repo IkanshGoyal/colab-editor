@@ -21,7 +21,7 @@ const EditorPage = () => {
 
             function errorHandler(err) {
                 toast.error('Failed to connect. Try again later!');
-                navigator('/');
+                //navigator('/');
             }
 
             socketRef.current.emit('join', {
